@@ -1,0 +1,13 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+?- planB(Plan), executable(Plan),  goalB(Plan).
+Plan = do(push(box2, door2, switch2Loc, room2), do(push(box2, door1, door2, corridor), do(push(box2, locInitBox2, door1, room1), do(go(locInitRobot, locInitBox2, room1), s0)))) ;
+false.
+
+?- 
